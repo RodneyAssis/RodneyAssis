@@ -1,4 +1,4 @@
-# Hey, I'm Rodney Assis! :raised_hand:
+# Hey, I'm Rodney! :raised_hand:
 
 🇧🇷 Living in Brasil
 
