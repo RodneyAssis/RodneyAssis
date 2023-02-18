@@ -5,6 +5,7 @@
 [![linkedin](https://img.shields.io/badge/RODkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodney-furtado/)
 [![gmail](https://img.shields.io/badge/RODmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSMScXmKhjzNFtPHpGnhjGqwbzprFsmDFJWdvKwnfccStvjWmWfDwTwflvKKclxmfGgpNbrL)
 [![hotmail](https://img.shields.io/badge/RODlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](https://outlook.live.com/mail/0/inbox/id/AQQkADAwATZiZmYAZC1kOTJkLWEzZTQtMDACLTAwCgAQAKkhlBmA3%2BxCrubOzdGBBlE%3D)
+[![Instagram](https://img.shields.io/badge/InstaRod-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodneyassismatos/)
 
 ![Rodney's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodneyAssis&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodneyAssis&layout=compact)](https://github.com/RodneyAssis/github-readme-stats)
