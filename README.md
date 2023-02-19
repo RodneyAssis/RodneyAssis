@@ -26,4 +26,4 @@
 
 #
 
-### Doente por tecnologia, automação e por ideias enficientes e preguiçosas!
+### Jovem desenvoldedor back-end, Doente por tecnologia, automação e por ideias enficientes e preguiçosas!
